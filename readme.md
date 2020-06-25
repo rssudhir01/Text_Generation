@@ -1,6 +1,6 @@
 # Text_Generation_Project
 
-The data here trained on the Frankenstein or, The Modern Prometheus by Mary Wollstonecraft Shelley and made to generate the text.
+The data used here was trained on the Frankenstein or, The Modern Prometheus by Mary Wollstonecraft Shelley and made to generate the text.
 
 ## Improper text Generation
 
